@@ -1,0 +1,7 @@
+import nltk
+print("Nama = Wisnu Dewasyah Putra")
+print("NIM = 04119032")
+print("Prodi = Sistem Komputer / A\n")
+kalimat = 'saya adalah wisnu mahasiswa universitas narotama'
+pisah = kalimat.split()
+print('\n'.join(pisah))
